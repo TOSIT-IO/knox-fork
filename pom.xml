@@ -207,7 +207,7 @@
         <gson.version>2.8.9</gson.version>
         <groovy.version>3.0.7</groovy.version>
         <guava.version>28.2-jre</guava.version>
-        <hadoop.version>3.2.4</hadoop.version>
+        <hadoop.version>3.3.6-1.0</hadoop.version>
         <hamcrest.version>2.2</hamcrest.version>
         <hamcrest-json.version>0.2</hamcrest-json.version>
         <httpclient.version>4.5.13</httpclient.version>
@@ -265,7 +265,7 @@
         <shiro.version>1.10.0</shiro.version>
         <shrinkwrap.version>1.2.6</shrinkwrap.version>
         <shrinkwrap.descriptors.version>2.0.0</shrinkwrap.descriptors.version>
-        <slf4j.version>1.7.30</slf4j.version>
+        <slf4j.version>1.7.36</slf4j.version>
         <spotbugs.version>4.2.0</spotbugs.version>
         <spotbugs-maven-plugin.version>4.1.4</spotbugs-maven-plugin.version>
         <spring.version>5.3.21</spring.version>
@@ -284,7 +284,7 @@
         <xmltool.version>3.3</xmltool.version>
         <xml-jaxb.version>2.3.0</xml-jaxb.version>
         <xml-matchers.version>0.10</xml-matchers.version>
-        <zookeeper.version>3.8.1</zookeeper.version>
+        <zookeeper.version>3.8.4-0.0</zookeeper.version>
     </properties>
     <repositories>
         <repository>
